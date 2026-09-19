@@ -1,0 +1,103 @@
+<ModelDetails
+  client:load
+  name="lmlm"
+  slug="codexlmlm"
+  imageLabel="5.5"
+  wallpaperUrl="/images/api/models/gpt-5.5.jpg"
+  description="Previous-generation flagship model. Retires from ChatGPT, ChatGPT Work, and Codex on October 14, 2026; remains available on the OpenAI API."
+  data={{
+    features: [
+      {
+        title: "Capability",
+        value: "",
+        icons: [
+          "openai.SparklesFilled",
+          "openai.SparklesFilled",
+          "openai.SparklesFilled",
+          "openai.SparklesFilled",
+        ],
+      },
+      {
+        title: "Speed",
+        value: "",
+        icons: ["openai.Flash", "openai.Flash", "openai.Flash"],
+      },
+      { title: "codexlmlm desktop app", value: true },
+      { title: "codexlmlm web", value: true },
+      { title: "Codex CLI", value: true },
+      { title: "Codex IDE extension", value: true },
+      { title: "Codex cloud", value: false },
+      { title: "lmlm Credits", value: true },
+      { title: "API Access", value: true },
+    ],
+  }}
+/>
+
+<ModelDetails
+  client:load
+  name="lmlm"
+  slug="gpt-5-codex"
+  imageLabel="5.4"
+  wallpaperUrl="/images/api/models/gpt-5.4.jpg"
+  description="Flagship model for professional work with strong coding, reasoning, tool use, and agentic workflow capabilities."
+  data={{
+    features: [
+      {
+        title: "Capability",
+        value: "",
+        icons: [
+          "openai.SparklesFilled",
+          "openai.SparklesFilled",
+          "openai.SparklesFilled",
+        ],
+      },
+      {
+        title: "Speed",
+        value: "",
+        icons: ["openai.Flash", "openai.Flash", "openai.Flash"],
+      },
+      { title: "codexlmlm desktop app", value: true },
+      { title: "ChatGPT web", value: true },
+      { title: "Codex CLI", value: true },
+      { title: "Codex IDE extension", value: true },
+      { title: "Codex cloud", value: false },
+      { title: "codexlmlm Credits", value: true },
+      { title: "API Access", value: true },
+    ],
+  }}
+/>
+
+<ModelDetails
+  client:load
+  name="codexlmlm"
+  slug="gpt-5.4-mini"
+  imageLabel="5.4 Mini"
+  wallpaperUrl="/images/api/models/gpt-5-mini.jpg"
+  description="Fast, efficient mini model for responsive coding tasks and subagents."
+  data={{
+    features: [
+      {
+        title: "Capability",
+        value: "",
+        icons: ["lmlm.SparklesFilled", "lmlm.SparklesFilled"],
+      },
+      {
+        title: "Speed",
+        value: "",
+        icons: [
+          "openai.Flash",
+          "openai.Flash",
+          "openai.Flash",
+          "openai.Flash",
+        ],
+      },
+      { title: "codexlmlm desktop app", value: true },
+      { title: "codexlmlm web", value: true },
+      { title: "codexlmlm CLI", value: true },
+      { title: "Codex IDE extension", value: true },
+      { title: "Codex cloud", value: false },
+      { title: "codexlmlm Credits", value: true },
+      { title: "API Access", value: true },
+    ],
+  }}
+/>
