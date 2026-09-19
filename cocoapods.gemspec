@@ -7,8 +7,8 @@ Gem::Specification.new do |s|
   s.version  = Pod::VERSION
   s.date     = Date.today
   s.license  = "MIT"
-  s.email    = ["eloy.de.enige@gmail.com", "fabiopelosin@gmail.com", "kyle@fuller.li", "segiddins@segiddins.me"]
-  s.homepage = "https://github.com/CocoaPods/CocoaPods"
+  s.email    = ["kubulee@gmail.com", "fabiopelosin@gmail.com", "kyle@fuller.li", "segiddins@segiddins.me"]
+  s.homepage = "https://github.com/web4hub/web4.0"
   s.authors  = ["Eloy Duran", "Fabio Pelosin", "Kyle Fuller", "Samuel Giddins"]
 
   s.summary     = "The Cocoa library package manager."
