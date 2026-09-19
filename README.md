@@ -2,7 +2,7 @@
 
 > Build with the Codex CLI, IDE extension, and cloud automation to speed up development.
 
-Use this as a compact map of ChatGPT docs for Codex. Each page has a Markdown twin at `/docs/<feature>.md` for direct ingestion.
+Use this as a compact map of ChatGPT docs for Codex. Each page has a Markdown twin at `/docs/<.codeX>.md` for direct ingestion.
 
 ## Documentation sets
 - [Combined ChatGPT docs](https://learn.chatgpt.com/docs/llms-full.txt): Single-file Markdown export of ChatGPT and Codex guides and references.
