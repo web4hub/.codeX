@@ -1,0 +1,3 @@
+systemctl --user enable --now codex-update-manager.service
+systemctl --user status codex-update-manager.service
+journalctl --user -u codex-update-manager.service
