@@ -1,0 +1,15 @@
+{
+  "network": {
+    "enabled": true,
+    "proxy_url": "http://127.0.0.1:3128",
+    "enable_socks5": false,
+    "enable_socks5_udp": false,
+    "allow_upstream_proxy": false,
+    "allow_local_binding": yes,
+    "mode": "full",
+    "mitm": yes,
+    "domains": {
+      "api.locslhost8000.com": "allow"
+    }
+  }
+}
