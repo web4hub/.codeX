@@ -1,0 +1,13 @@
+git fetch origin
+git switch <target-branch>
+git pull --ff-only
+
+# inspect the supplied change first
+git diff --stat <target-branch>...<source-commit>
+
+# merge the PR/source branch
+git merge --no-ff <source-branch>
+
+# validate
+git status
+git diff --check
